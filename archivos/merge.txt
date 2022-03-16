@@ -1,3 +1,7 @@
 Juan Pablo Espinosa Osorio, 19 años.
 
 Yo con esta materia espero desarrollar un mejor pensamiento y poder aprender cosas nuevas sobre la programacion
+github no me dejo hacer commit ya que la carpeta se encontraba vacia y al crear un archivo ya si pude hacer commit de la carpeta
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Respuesta: es muy importante tener cuidado, ya que puede suceder lo que nos paso en esta ocacion que es que el programa no sabe cual de los dos archivos tomar entonces solo tomaria uno de los dos archivos 
